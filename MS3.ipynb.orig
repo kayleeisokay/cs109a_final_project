@@ -1348,7 +1348,11 @@
    "execution_count": 180,
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "<<<<<<< REMOTE CELL DELETED >>>>>>>\n",
+    "train = pd.read_csv('./data/train_clean.csv')\n",
+    "test = pd.read_csv('./data/test_clean.csv')"
+   ]
   },
   {
    "cell_type": "code",
