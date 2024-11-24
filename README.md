@@ -1,5 +1,18 @@
-# cs109a_final_project
-CS109A Final Project
+# CS109A Final Project
 
-Kaggle Link
-https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom
+## MS4 Todo
+
+Chloe
+- ~~Causal inference (Done)~~
+- Code cleanup as needed
+
+Kai
+- Logistic Regression
+
+Kaylee
+- ~~Data pipeline (Done)~~
+- On standby to help with other tasks
+
+Siri
+- Gradient Boosting
+- Random Forest
