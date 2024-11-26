@@ -11,8 +11,8 @@ Kai
 
 Kaylee
 - ~~Data pipeline (Done)~~
-- On standby to help with other tasks
+- Random Forest
 
 Siri
 - Gradient Boosting
-- Random Forest
+
