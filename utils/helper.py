@@ -32,3 +32,6 @@ def get_variable_category(df):
             discrete_vars.append(col)
     
     return discrete_vars, categorical_vars, continuous_vars, binary_vars, id_vars
+
+def split_snake_case(s):
+    return s.replace('_', ' ').title()
