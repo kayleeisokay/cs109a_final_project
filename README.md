@@ -7,11 +7,11 @@ Chloe
 - Code cleanup as needed
 
 Kai
-- Logistic Regression
+- Random Forest Code Cleanup
 
 Kaylee
 - ~~Data pipeline (Done)~~
-- Random Forest
+- ~~Logistic Regression Cleanup~~
 
 Siri
 - Gradient Boosting
