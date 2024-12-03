@@ -1,18 +1,17 @@
 # CS109A Final Project
 
-## MS4 Todo
+## Files
 
-Chloe
-- ~~Causal inference (Done)~~
-- Code cleanup as needed
+1. MS4.ipynb: Main notebook for the project
+2. data_pipeline.py: Contains functions to load and preprocess data
+3. utils/ folder: Contains utility functions for the project
 
-Kai
-- Random Forest Code Cleanup
+## Tasks
 
-Kaylee
-- ~~Data pipeline (Done)~~
-- ~~Logistic Regression Cleanup~~
+Notebook Revision
+- First Half: Kai
+- Second Half: Kaylee
 
-Siri
-- Gradient Boosting
-
+Presentation
+- Chloe
+- Siri
