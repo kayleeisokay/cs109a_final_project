@@ -8,6 +8,4 @@
 
 ## Tasks
 
-1. Black code formatting
-2. Grammar and spelling checks
-3. Add citations where necessary
+None
