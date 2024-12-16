@@ -1,12 +1,16 @@
 # CS109A Final Project
 
+Members: Kaylee Vo, Chloe Seo, Kai Yeh, Siri Pranivong
+
 ## Files
 
 1. MS5.ipynb: Main notebook for the project
 2. data_pipeline.py: Contains functions to load and preprocess data
-3. utils/ folder: Contains utility functions for the project
-4. presentation_videos/
+3. utils/: Contains utility functions for the project
+4. presentation
+    - /slides: Contains powerpoint presentation
+    - /videos: Contains presentation video or alternatively YouTube link is provided below
 
-YouTube Presentation Link
+## YouTube Presentation Link
 
-https://www.youtube.com/watch?v=x-PkJaARR4Y&feature=youtu.be
+1. https://www.youtube.com/watch?v=x-PkJaARR4Y&feature=youtu.be
